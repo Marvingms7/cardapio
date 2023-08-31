@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter do marcus',
       theme: ThemeData(
-        primaryColor:  Colors.blueGrey[700],
         primarySwatch: Colors.blueGrey,
         fontFamily: "Raleway",
         canvasColor:const Color.fromRGBO(255, 254, 229, 1),
